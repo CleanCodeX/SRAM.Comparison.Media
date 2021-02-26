@@ -13,7 +13,7 @@ Info: Links öffnen sich in einem neuen Tab
 SoE specific libraries:
 
 ##### S-RAM
-* <a href="https://github.com/CleanCodeX/SRAM.Comparison.Media" target=_>SRAM.Comparison.Media</a> S-RAM-Comparer Implementierung für SoE
+* <a href="https://github.com/CleanCodeX/SRAM.Comparison.SoE" target=_>SRAM.Comparison.SoE</a> S-RAM-Comparer Implementierung für SoE
 * <a href="https://github.com/CleanCodeX/SRAM.SoE" target=_>SRAM.SoE</a> S-RAM »Rosetta Stone« für SoE
 * <a href="https://github.com/CleanCodeX/WebApp.SoE" target=_>WebApp.SoE</a> Web-App für Webseite und Web-Tools
 
