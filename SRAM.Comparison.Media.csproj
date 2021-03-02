@@ -28,4 +28,19 @@
 		<Folder Include="Properties\" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <None Update="Guides\de\Guide-Savestate.md">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Guides\de\Guide-Srm.md">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Guides\Guide-Savestate.md">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Guides\Guide-Srm.md">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+
 </Project>
