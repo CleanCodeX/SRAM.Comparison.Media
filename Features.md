@@ -1,6 +1,8 @@
 # SoE S-RAM Comparer
 Allows to compare (unknown) areas and modify offset values in Secret of Evermore's S-RAM file.
 
+Supported file types: SRM, Savestate (Snex9x)
+
 ## Features
 * [C|W] Display (or save modified) srm offset values
 * [C|W] Display savestate offset values (no edit)
