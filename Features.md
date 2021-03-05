@@ -31,6 +31,6 @@ Supported file types: SRM, Savestate (Snex9x)
 * [C] In-app Website links (Docu, Project, Downloads, Forum, Discord)
 
 *) C = Supported by <a href=console-app>Windows Console App</a>
-*) W = Supported by <a href=comparing>Web App</a>
+*) W = Supported by <a href=comparison>Web App</a>
 
 For images of console app click <a href=imagery>here</a>.
