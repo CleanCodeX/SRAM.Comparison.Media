@@ -1,5 +1,5 @@
 **Q: What's the Evermore Format Exploration Project?**
-> A: The S-RAM-file can be generally read and manipulated. Although that's good, the only problem is that some parts of SoE's save slot format are still considered to be unknown, meaning that we don't really know what those bytes control. To change that some SoE fans started a project to create a complete documentation, usually called Rosetta Stone document. A RAMsetta Stone document if you will.
+> A: The S-RAM-file can be generally read and manipulated. Although that's good, the only problem is that some parts of SoE's save slot format are still considered to be unknown, meaning that we don't really know what those bytes control. To change that some SoE fans started a project to create a complete documentation, usually called Rosetta Stone. A RAMsetta Stone if you will.
 
 **Q: What are the goals?**
 > A: If the S-RAM format is completely known, a future savegame editor can enable/disable everything what is controlled by a savegame.
