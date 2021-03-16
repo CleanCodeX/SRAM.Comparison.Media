@@ -1,4 +1,4 @@
-﻿# Ziel des Ganzen
+﻿# Ziel dieses Projektes
 
 ## S-RAM?
 Falls du unsicher bist, was mit diesem Begriff gemeint ist, im <a href=glossary>Glossar</a> wird es erklärt.
@@ -17,14 +17,14 @@ Sobald das S-RAM-Format vollständig bekannt ist, bietet es die Möglichkeit ein
 "Das klingt cool!" denkst du vielleicht. Absolut, das ist es!
 
 ### Features eines zukünftigen Spielstand-Editors
-* Zurücksetzen von bereits durchgeführten Boss-Kämpfen
-* Festlegen des Spiel-Speicherortes an welchem nach dem Laden weitergespielt werden soll
+* Zurücksetzen von (bereits durchgeführten) Boss-Kämpfen
+* Festlegen des Spiel-Speicherortes von welchem aus der Spielstand weitermachen soll
 * Zurücksetzen der aufhobenen Zutaten je Map, Kapitel oder des ganzen Spiels
 * Zurücksetzen der geöffneten Kisten, Körbe, Kürbisse oder Wände je Map, Kapitel oder des ganzen Spiels
 
 ### Wann wird es verfügbar sein?
 
 Nun, das hängt hauptsächlich von der Menge und Qualität der Zuarbeit ab.
-Ich verbringe meine Freizeit damit, daran zu arbeiten, aber das wird nicht ausreichen um schnell voranzukommen.
+Ich verbringe meine Freizeit damit, das zu erreichen, aber das wird nicht ausreichen um in der nahen Zukunft fertig zu werden.
 
-Wenn du dem Exploration-Team beitreten möchtest, lies <a href=exploring>hier</a>, wie es funktioniert.
+Wenn du den Prozess beschleunigen und das S-RAM selbst erkunden willst, lies <a href=exploring>hier</a>, wie es funktioniert.

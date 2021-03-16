@@ -1,4 +1,4 @@
-﻿# Erkunden
+﻿# S-RAM Erkundung
 
 ## S-RAM Vergleichen
 Tritt dem Exploration-Team bei um Bedeutungen für verschiedene S-RAM-Offsets zu finden.
@@ -12,7 +12,7 @@ Sobald du eine Bedeutung für einen Offset-Wert gefunden hast, versuche diesen W
 ### Offset-Werte ändern
 Das Lesen und Bearbeiten von Offset-Werten kann (u.a.) mit den folgenden Möglichkeiten erfolgen:
 
-* [Web Offset-Editor](offset-editing)
+* [Web Offset-Editor](offset/editing)
 * [Windows Konsolen-App](changelog-console)
 * Hex-Editor
 

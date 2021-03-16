@@ -6,7 +6,7 @@
 
 Info: links open in a new tab
 
-### »Rosetta Stones«
+### »Rosetta Stones« Docs
 
 * <a href="https://github.com/CleanCodeX/RAMsettaStone.SoE/blob/main/ReadMe.md" target=_>RAMsetta Stone</a>
 * <a href="https://github.com/CleanCodeX/ROMsettaStone.SoE/blob/main/ReadMe.md" target=_>ROMsetta Stone</a>

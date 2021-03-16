@@ -1,10 +1,10 @@
 ## Screenshots
 
-# Multi and single bit changes
+# Multi- und Einzel-Bit Änderungen
 ![Single Bit Changes](https://raw.githubusercontent.com/CleanCodeX/SRAM.Comparison.Media/main/Images/SingleBitChanges.png "Single Bit Changes")
 
-# No S-RAM changes
+# Keine S-RAM Änderungen
 ![No S-RAM Change](https://raw.githubusercontent.com/CleanCodeX/SRAM.Comparison.Media/main/Images/NoChange.png "No S-RAM Change")
 
-# Command list
+# Befehlsliste
 ![Commands](https://raw.githubusercontent.com/CleanCodeX/SRAM.Comparison.Media/main/Images/Commands.png "Commands")

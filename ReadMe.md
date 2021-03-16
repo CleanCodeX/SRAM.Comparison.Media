@@ -1,14 +1,14 @@
-﻿# SoE ~ RAMsetta Stone Document
+﻿# SoE ~ RAMsetta Stones
 
 [Credits](Credits.md)
 
-## S-RAM »Rosetta Stone« Document 
+## »S-RAMsetta Stone«
 
 * ### [S-RAM Map](SRAM.md)
 * ### [Offsets](SRAM-Offsets.md)
 * ### [Unknowns](SRAM-Unknowns.md)
 
-## W-RAM »Rosetta Stone« Document 
+## »W-RAMsetta Stone«
 
 * ### [W-RAM Map](WRAM.md)
 * ### [Offsets & S-RAM Mapping](WRAM-Offsets.md)

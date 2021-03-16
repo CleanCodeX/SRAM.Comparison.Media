@@ -3,4 +3,4 @@
 * French localization
 
 #### Misc
-* <a href="https://moefrgd.fr.gd" target=_>Mystery Of Evemore (MoE)</a>
+* <a href="https://www.mysteryofevermore.com/" target=_>Mystery Of Evemore</a>

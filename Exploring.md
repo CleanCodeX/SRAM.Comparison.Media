@@ -1,4 +1,4 @@
-# Explore
+# S-RAM Exploration
 
 ## Compare S-RAM
 Join the exploration team to find meanings for various S-RAM offsets.
