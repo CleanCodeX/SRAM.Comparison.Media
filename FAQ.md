@@ -4,7 +4,7 @@
 **Q: What are the goals?**
 > A: If the S-RAM format is completely known, a future savegame editor can enable/disable everything what is controlled by a savegame.
 
-**Q: What are possible features of such a Savegame editor?**
+**Q: What are possible features of such a savegame editor?**
 > A: Most likely candidates are:
 > * Reset of (already performed) boss fights
 > * Reset suspended ingredients for a map, chapter or the whole game
