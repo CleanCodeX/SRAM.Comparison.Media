@@ -35,10 +35,13 @@
 	  <None Update="Guides\de\Guide-Srm.md">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </None>
-	  <None Update="Guides\Guide-Savestate.md">
+	  <None Update="Guides\Savestates\Guide-Savestate.md">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </None>
-	  <None Update="Guides\Guide-Srm.md">
+	  <None Update="Guides\SRM\Guide-Srm.md">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Guides\Guides.md">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </None>
 	</ItemGroup>

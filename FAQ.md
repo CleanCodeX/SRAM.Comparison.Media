@@ -41,27 +41,27 @@ A:
 
 Comparison related
 
-* [C|W) Comparison of *.SRM files as well as Snes9x savestate files  
+* [1,2) Comparison of *.SRM files as well as Snes9x savestate files  
 
-* [C|W) Comparison of Unknowns areas / complete save slot area
+* [1,2) Comparison of Unknowns areas / complete save slot area
 
-* [C|W) Comparison of either specific slots only or all slots at once
+* [1,2) Comparison of either specific slots only or all slots at once
 
-* [C|W) Export comparison result as text file
+* [1,2) Export comparison result as text file
 
 * [C) Optional file watcher (windows) to compare S-RAM when you create a savestate / save in-game
 
-* [C|W) Display value differences in decimal, hex and binary format
+* [1,2) Display value differences in decimal, hex and binary format
 
 Offsets
 
-* [C|W) Show/Edit specific *.SRM offset values
+* [1,2) Show/Edit specific *.SRM offset values
 
-* [C|W) Show offset values from savestates
+* [1,2) Show offset values from savestates
 
 Misc
 
-* [C|W) Display and Export save slot summary
+* [1,2) Display and Export save slot summary
 
 * [C) Backup / restore functionality of current and comparison S-RAM file
 
