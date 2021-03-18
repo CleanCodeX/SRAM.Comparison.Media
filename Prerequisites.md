@@ -2,7 +2,7 @@
 This application uses the latest .NET 5 runtime.
 
 ## Steps
-1) Head to .NET <a href=https://dotnet.microsoft.com target=_>download page</a>
+1) Head to .NET <a href="https://dotnet.microsoft.com" target=_>download page</a>
 2) Click on Download button
 3) See left column ".NET 5.0"
 4) Users click "Download .NET Runtime" button
