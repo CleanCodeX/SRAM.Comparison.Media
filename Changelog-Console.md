@@ -5,9 +5,17 @@ This application uses the latest .NET 5 runtime. Make sure you have it installed
 
 Hint: if download does not start, use rightclick - save target as
 
+#### v034 (2021-03-18) 
+> <a href="http://xeth.de/Releases/SramComparer/034/Comparer-SoE-034-x64.zip">Download (64bit)</a>
+> <a href="http://xeth.de/Releases/SramComparer/034/Comparer-SoE-034-x86.zip">Download (32bit)</a>
+> Updated S-RAM format (unknown rate reduced to 32.4%)
+> Corrected a bug when finding the certain buffer names for offsets
+> * Corrected some localizations
+
 #### v033 (2021-03-03) 
 <a href="http://xeth.de/Releases/SramComparer/033/Comparer-SoE-033-x64.zip">Download (64bit)</a>
 <a href="http://xeth.de/Releases/SramComparer/033/Comparer-SoE-033-x86.zip">Download (32bit)</a>
+* Updated S-RAM format (unknown rate reduced to 37%)
 * Added self-update mechanism (optionally auto-update)
 * Added in-app Website links (Docu, Project, Downloads, Forum, Discord)
 * Changed comparison display a bit

@@ -2,7 +2,7 @@
 
 #### v011 (2021-03-17)
 * Updated S-RAM format based on recent explorations (unknown rate reduced to 32.4%)
-* Added Awesome SoE suggestion link (via eMail)
+* Added Awesome SoE suggestion link
 * added FAQ
 
 #### v010 (2021-02-26)
