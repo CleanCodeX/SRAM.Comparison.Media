@@ -1,7 +1,7 @@
 ﻿# Changelog Console-App
 
 ## Prerequisites (Runtime)
-This application uses the latest .NET 5 runtime. Make sure you have it installed. If not get it <a href=prerequisites target=_>here</a>.
+This application uses the latest .NET 5 runtime. Make sure you have it installed. If not get it <a href=prerequisites>here</a>.
 
 Hint: if download does not start, use rightclick - save target as
 
