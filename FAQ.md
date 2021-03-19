@@ -41,33 +41,31 @@ A:
 
 Comparison related
 
-* [1,2] Comparison of *.SRM files as well as Snes9x savestate files  
+* Comparison of *.SRM files as well as Snes9x savestate files  
 
-* [1,2] Comparison of Unknowns areas / complete save slot area
+* Comparison of Unknowns areas / complete save slot area
 
-* [1,2] Comparison of either specific slots only or all slots at once
+* Comparison of either specific slots only or all slots at once
 
-* [1,2] Export comparison result as text file
+* Export comparison result as text file
 
-* [C) Optional file watcher (windows) to compare S-RAM when you create a savestate / save in-game
+* [1] Optional file watcher (windows) to compare S-RAM when you create a savestate / save in-game
 
-* [1,2] Display value differences in decimal, hex and binary format
+* Display value differences in decimal, hex and binary format
 
 Offsets
 
-* [1,2] Show/Edit specific *.SRM offset values
+* Show/Edit specific *.SRM offset values
 
-* [1,2] Show offset values from savestates
+* Show offset values from savestates
 
 Misc
 
-* [1,2] Display and Export save slot summary
+* Display and Export save slot summary
 
 * [1] Backup / restore functionality of current and comparison S-RAM file
 
-[1] Supported by [Windows Console App](console-app)
-
-[2] Supported by [Web App](comparison)
+[1] Not supported by [Web App](comparison)
 
 ### Q: Which file type types are supported?
 
