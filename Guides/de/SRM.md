@@ -67,7 +67,7 @@ Um alle Bytes (inkl. der bekannten Bereiche) eines Speicherslots Byte für Byte 
 Um die Bytes hinter allen Speicherslots zu vergleichen drücke (NonSlotComp). Derzeit hat es den Anschein, als sei dieser Bereich leer.
 
 ## ***7)*** (optional) S-RAM-Dateien sichern und wiederherstellen
-Die aktuelle und die Vergleichs-Datei können einzeln gesichert (Backup) bzw. (Backup_Comp) oder wiederhergestellt (Restore) bzw. (Restore_Comp) werden.
+Die aktuelle und die Vergleichs-Datei können einzeln gesichert (Backup) bzw. (Backup_Comp) oder wiederhergestellt werden (Restore) bzw. (Restore_Comp).
 
 ## ***8)*** (optional) Offset-Werte anzeigen und ändern
 S-RAM Offset-Werte für bestimmte Speicherslots können durch durch Drücken von (Offset) angezeigt oder durch (EditOffset) manipuliert werden. Du kannst entscheiden, ob du die aktuelle Speicher-Datei aktualisieren (Sicherung empfohlen) oder eine neue Datei erstellen möchtest.

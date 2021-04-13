@@ -29,16 +29,16 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <None Update="Guides\de\Guide-Savestate.md">
+	  <None Update="Guides\de\Snes9x.md">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </None>
-	  <None Update="Guides\de\Guide-Srm.md">
+	  <None Update="Guides\de\SRM.md">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </None>
-	  <None Update="Guides\Savestates\Guide-Savestate.md">
+	  <None Update="Guides\Snes9x.md">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </None>
-	  <None Update="Guides\SRM\Guide-Srm.md">
+	  <None Update="Guides\SRM.md">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </None>
 	  <None Update="Guides\Guides.md">
