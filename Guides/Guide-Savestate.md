@@ -35,7 +35,7 @@ Try to change as little as possible between two saves to avoid unnecessary bit n
 ### Ensure reproducibility
 Value changes often mean something different than assumed. Ensure reproducibility by trying the following.
 
-Check whether the found change…:
+Check whether the found changeâ€¦:
 * also occurs in other game versions. E.g. unpatched or patched versions
 * is still reproducible even after reloading your saved game
 
