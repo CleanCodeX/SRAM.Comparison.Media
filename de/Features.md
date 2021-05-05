@@ -4,19 +4,19 @@ Erlaubt das Vergleichen von (unbekannten) Bereichen und Modifizieren von Offset-
 Unterstützte Dateotypen: SRM, Savestate (Snex9x)
 
 ## Features
-* [1,2] Anzeigen (oder Speichern von geänderten) S-RAM Offset-Werten
-* [1,2] Anzeige von Savestate Offset-Werten (keine Editierung)
-* [1,2] Vergleich von *.srm- und Snes9x Savestate-Dateien
-* [1,2] Vergleich von unbekannten Bereichen des Speicherslots
-* [1,2] Vergleich des gesamten Speicherslot-Bereichs
-* [1,2] Vergleich des Nicht-Speicherslot-Bereichs
-* [1,2] Vergleich aller Speicherslots
-* [1,2] Vergleich eines spezifischen Speicherslots mit dem gleichen oder unterschiedlichen Vergleichs-Speicherslot
-* [1,2] Anzeige der Unterschiede im Dezimal-, Hex- und Binär-Format
-* [1,2] Export des Vergleichsergebnisses als Text-Datei
-* [1,2] Anzeige der Speicherslot-Prüfsumme
-* [1,2] Anzeige des Speicherslot Prüfsummen-Status
-* [1,2] Anzeige und Export einer Speicherslot-Zusammenfassung
+* Anzeigen (oder Speichern von geänderten) S-RAM Offset-Werten
+* Anzeige von Savestate Offset-Werten 
+* Vergleich von *.srm- und Snes9x Savestate-Dateien
+* Vergleich von unbekannten Bereichen des Speicherslots
+* Vergleich des gesamten Speicherslot-Bereichs
+* Vergleich des Nicht-Speicherslot-Bereichs
+* Vergleich aller Speicherslots
+* Vergleich eines spezifischen Speicherslots mit dem gleichen oder unterschiedlichen Vergleichs-Speicherslot
+* Anzeige der Unterschiede im Dezimal-, Hex- und Binär-Format
+* Export des Vergleichsergebnisses als Text-Datei
+* Anzeige der Speicherslot-Prüfsumme
+* Anzeige des Speicherslot Prüfsummen-Status
+* Anzeige und Export einer Speicherslot-Zusammenfassung
 * [2] Automatische Speicherung der zuletzt benutzten Einstellungen
 * [1] Option zum Öffnen oder Auswählen der Export-Datei im Windows-Explorer
 * [1] Option zum Eingeben des Export-Dateinamens oder -pfades
@@ -30,8 +30,8 @@ Unterstützte Dateotypen: SRM, Savestate (Snex9x)
 * [1] Mechanismus zur Selbstaktualisierung (Auto-Opdate optional)
 * [1] In-App Webseiten-Links (Doku, Projekt, Downloads, Forum, Discord)
 
-[1] Unterstützt durch <a href=console-app>Windows Konsolen-App</a>
+[1] Nur bei <a href=console-app>Windows Konsolen-App</a>
 
-[2] Unterstützt durch <a href=comparison>Web-App</a>
+[2] Nur bei <a href=comparison>Web-App</a>
 
 Für Bilder der Konsolenanwendung <a href=imagery>hier</a> klicken.

@@ -5,6 +5,15 @@ This application uses the latest .NET 5 runtime. Make sure you have it installed
 
 Hint: if download does not start, use rightclick - save target as
 
+#### v035 (2021-05-05) 
+<a href="http://xeth.de/Releases/SramComparer/035/Comparer-SoE-035-x64.zip">Download (64bit)</a> | 
+<a href="http://xeth.de/Releases/SramComparer/035/Comparer-SoE-035-x86.zip">Download (32bit)</a>
+* Added general savestate write support (Snes9x) 
+* Added show terminal codes functionality
+* Added change secret boos room code functionality when both codes are the same
+* Added edit-offset savestate support
+* Corrected a bug when saving edited offset values
+
 #### v034 (2021-03-18) 
 <a href="http://xeth.de/Releases/SramComparer/034/Comparer-SoE-034-x64.zip">Download (64bit)</a> | 
 <a href="http://xeth.de/Releases/SramComparer/034/Comparer-SoE-034-x86.zip">Download (32bit)</a>

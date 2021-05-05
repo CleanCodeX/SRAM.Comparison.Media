@@ -6,3 +6,4 @@
 /obj
 /.vs/SRAM.Comparison.Media
 /bin
+*.user

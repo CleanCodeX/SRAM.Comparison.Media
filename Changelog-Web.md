@@ -1,5 +1,12 @@
 ﻿## Changelog Web-App
 
+#### v012 (2021-05-05) 
+* Added general savestate write support (Snes9x) 
+* Added show Terminalcodes web-tools
+* Added change secret boos room code functionality when both codes are the same
+* Added edit-offset web-tools savestate support
+* Corrected a bug when saving edited offset values
+
 #### v011 (2021-03-17)
 * Updated S-RAM format based on recent explorations (unknown rate reduced to 32.4%)
 * Added Awesome SoE suggestion link
