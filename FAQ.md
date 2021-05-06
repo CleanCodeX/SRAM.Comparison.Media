@@ -55,9 +55,7 @@ Comparison related
 
 Offsets
 
-* Show/Edit specific *.SRM offset values
-
-* Show offset values from savestates
+* Show/edit offset values of SRM-files or savestates (Snes9x)
 
 Misc
 
@@ -89,8 +87,8 @@ A: Yes, for source code see [here](https://github.com/CleanCodeX). Feel free to 
 
 ### Q: Is there support for other games in the future?
 
-A: Other games will likely be supported in the far future, as well as a version that is completely game-independent in terms of code and based on format files. If you're a developer feel free to make a fork for your favorite game anytime. You will most likely get support afterwards.
+A: Other games will likely be supported in the far future, as well as a version that is completely game-independent in terms of code and based on format files. If you're a developer feel free to make a fork for your favorite game anytime. When possible, you can get some kind of dev-support for your fork.
 
 ### Q: How can my favorite game be the next?
 
-A: If there's a demand for supporting a specific game, address your wish in the [community](Community).
+A: If you want your favorite game being supported, address your wish in the [community](Community).
