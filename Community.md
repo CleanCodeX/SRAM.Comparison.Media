@@ -6,7 +6,7 @@ Your help is appreciated!
 Info: links open in a new tab
 
 #### Forum
-* Check out the <a href="http://forum.xeth.de" target=_>Forum</a>
+* Check out the <a href="https://forum.xeth.de" target=_>Forum</a>
 
 #### Discord
 * There's also a <a href="https://discord.gg/s4wTHQgxae" target=_>Discord</a>
