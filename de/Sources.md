@@ -1,6 +1,6 @@
 ﻿# Quellcodes
 
-## Dies ist ein Open-Source Projekt!
+## Dieses Projekt ist Open-Source!
 
 Die Sourcen sind auf <a href="https://github.com/CleanCodeX" target=_>GitHub</a> gehostet.
 
@@ -10,12 +10,13 @@ Info: Links öffnen sich in einem neuen Tab
 
 #### Secret Of Evermore-bezogen
 
-SoE specific libraries:
+* <a href="https://github.com/CleanCodeX/RAMsettaStone.SoE" target=_>RAMsettaStone.SoE</a> S-RAM / W-RAM »Rosetta Stone«-Doku für SoE
+* <a href="https://github.com/CleanCodeX/WebApp.SoE" target=_>WebApp.SoE</a> Web-App für Webseite und Web-Tools
+* <a href="https://github.com/CleanCodeX/SRAM.Comparison.Media" target=_>SRAM.Comparison.Media</a> Text- und bildinhalte für Web-App
 
 ##### S-RAM
 * <a href="https://github.com/CleanCodeX/SRAM.Comparison.SoE" target=_>SRAM.Comparison.SoE</a> S-RAM-Comparer Implementierung für SoE
-* <a href="https://github.com/CleanCodeX/SRAM.SoE" target=_>SRAM.SoE</a> S-RAM »Rosetta Stone« für SoE
-* <a href="https://github.com/CleanCodeX/WebApp.SoE" target=_>WebApp.SoE</a> Web-App für Webseite und Web-Tools
+* <a href="https://github.com/CleanCodeX/SRAM.SoE" target=_>SRAM.SoE</a> S-RAM »Rosetta Stone«-Code für SoE
 
 * <a href="https://github.com/CleanCodeX/SRAM.Comparison.Media.WrapperDemo" target=_>SRAM.Comparison.SoE.WrapperDemo</a> Demo-App zum fremdsteuern der S-RAM Comparer Konsolenanwendung
 * <a href="https://github.com/CleanCodeX/SRAM.Comparison.Media.Watchdog" target=_>SRAM.Comparison.SoE.Watchdog</a> Eine weitere Demo-App als Savegame-Überwachungs-Erweiterung für S-RAM Comparer
