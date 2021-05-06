@@ -17,7 +17,6 @@ Info: links open in a new tab
 ##### S-RAM
 * <a href="https://github.com/CleanCodeX/SRAM.Comparison.SoE" target=_>SRAM.Comparison.SoE</a> S-RAM-Comparer implementation for SoE
 * <a href="https://github.com/CleanCodeX/SRAM.SoE" target=_>SRAM.SoE</a> SoE's S-RAM »Rosetta Stone« 
-
 * <a href="https://github.com/CleanCodeX/SRAM.Comparison.SoE.WrapperDemo" target=_>SRAM.Comparison.SoE.WrapperDemo</a> Demo app how to wrap the S-RAM Comparer console app
 * <a href="https://github.com/CleanCodeX/SRAM.Comparison.SoE.Watchdog" target=_>SRAM.Comparison.SoE.Watchdog</a> Another demo app for a savegame watcher extension for S-RAM Comparer
 
