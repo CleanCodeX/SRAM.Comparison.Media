@@ -91,4 +91,4 @@ A: Other games will likely be supported in the far future, as well as a version 
 
 ### Q: How can my favorite game be the next?
 
-A: If you want your favorite game being supported, address your wish in the [community](Community).
+A: If you want your favorite game being supported, address your wish via the [community](Community).
